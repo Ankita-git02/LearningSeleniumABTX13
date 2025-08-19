@@ -1,7 +1,3 @@
-Got it 👍 — you want a `README.md` file that clearly says this repo is for your **learning journey of Selenium 4 concepts** from the notes, not a polished framework repo yet.
-Here’s a clean and simple version you can directly use as your README:
-
----
 
 # Selenium 4 Learning Repository
 
