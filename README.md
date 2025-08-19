@@ -3,9 +3,7 @@
 
 This repository is dedicated to my **step-by-step learning journey** of **Selenium 4.x Web Automation**.
 I will practice every concept from *TheTestingAcademy – Selenium 4.x Notes (Pramod)* and organize my code examples here.
-
 ---
-
 ## 📚 What I Am Learning
 
 I will be covering the following concepts:
