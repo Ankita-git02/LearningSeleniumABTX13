@@ -15,7 +15,6 @@ public class Selenium04 {
 //        SearchContext driver1 = new FirefoxDriver();
 //        SearchContext driver2 = new InternetExplorerDriver();
 
-
 //        WebDriver driver = new ChromeDriver();
 //        RemoteWebDriver driver1 = new ChromeDriver();
 //        ChromeDriver driver2 = new ChromeDriver();

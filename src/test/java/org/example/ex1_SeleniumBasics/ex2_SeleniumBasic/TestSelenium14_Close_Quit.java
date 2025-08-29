@@ -10,7 +10,6 @@ public class TestSelenium14_Close_Quit {
         driver.get("https://www.google.com");
 
         //write code
-
         //wait
         try {
             Thread.sleep(5000);

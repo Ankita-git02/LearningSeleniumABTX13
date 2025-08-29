@@ -7,7 +7,6 @@ public class TestSelenium06_System_getRpo_Selenium3 {
 
     public static void main(String[] args) {
 
-
         //Selenium 3
         //System.setProperty("webdriver.chrome.driver", "path/to/chromedriver.exe");
         //System.setProperty("webdriver.ie.driver", "path/to/IEDriverServer.exe");

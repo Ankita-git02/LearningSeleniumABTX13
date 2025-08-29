@@ -7,15 +7,15 @@ import org.openqa.selenium.chrome.ChromeOptions;
 public class TestSelenium15_OptionsClasses {
     public static void main(String[] args) {
 
-        ChromeOptions chromeOptions= new ChromeOptions();
-      //  chromeOptions.addArguments("--headless");//used running behind dont want to see running
+        ChromeOptions chromeOptions = new ChromeOptions();
+        //  chromeOptions.addArguments("--headless");//used running behind dont want to see running
         //chromeOptions.addArguments("--window-size=800,600");
-       // chromeOptions.addArguments("--start-maximized");
+        // chromeOptions.addArguments("--start-maximized");
         chromeOptions.addArguments("--incognito");
 
-        WebDriver driver= new ChromeDriver(chromeOptions);
+        WebDriver driver = new ChromeDriver(chromeOptions);
         driver.get("https://app.vwo.com");
-                System.out.println(driver.getTitle());
+        System.out.println(driver.getTitle());
 
         driver.quit();
     }

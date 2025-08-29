@@ -22,7 +22,6 @@ public class TestSelenium12_Navigation_command {
         driver.navigate().refresh();
         driver.navigate().forward();
 
-
         driver.quit();
     }
 }

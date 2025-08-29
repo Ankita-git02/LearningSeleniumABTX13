@@ -7,7 +7,6 @@ public class TestSelenium13_NoHTTP {
         FirefoxDriver driver = new FirefoxDriver();
        // driver.get("bing.com"); - without https not work
         driver.get("https://bing.com");
-
         driver.quit();
     }
 }

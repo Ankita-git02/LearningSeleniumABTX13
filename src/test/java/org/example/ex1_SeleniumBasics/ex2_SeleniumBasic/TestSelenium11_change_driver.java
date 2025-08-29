@@ -9,6 +9,5 @@ public class TestSelenium11_change_driver {
         WebDriver driver =new ChromeDriver();
         driver = new FirefoxDriver();
 
-
     }
 }
